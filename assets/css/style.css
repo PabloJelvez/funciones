@@ -30,3 +30,12 @@
     background-color: yellow;
     margin: 20px;
 }
+
+.divColor{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px;
+    border: solid 3px black;
+}
+
