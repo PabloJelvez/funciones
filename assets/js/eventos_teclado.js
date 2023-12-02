@@ -1,4 +1,4 @@
-let keyDown = document.getElementById("divColor")
+let keyDown = document.getElementById("key")
 
 document.addEventListener("keydown", function(event){
     if(event.key === "a" || event.key === "A"){
